@@ -1,4 +1,4 @@
-meu nome é caique petris e eu sou estudante iniciante de front-end 
+meu nome é caique petris e eu sou estudante  de front-end & empresário no ramo de tecnologia
 
 <!---
 caiquepetris2/caiquepetris2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
