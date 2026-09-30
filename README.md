@@ -10,7 +10,6 @@ class Developer {
 const dev = new Developer();
 console.log(dev);
 ```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiquepetris&color=red" alt="Profile views"/></p>
 
 
 
