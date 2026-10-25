@@ -2,8 +2,8 @@
 class Developer {
   name = "Caique Petris";
   profession = "Full Stack Developer";
-  languages = ["Typescript", "Node.js"];
-  skills = ["React", "Node.js", "Git"];
+  languages = ["Typescript", "Node.js", "Python"];
+  skills = ["React", "Node.js", "Git", "SQL"];
   contact = { email: "caiquepetris@gmail.com", };
 }
 
